@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/WebApplication12/Default.aspx) (VB: [Default.aspx.vb](./VB/WebApplication12/Default.aspx.vb))
+* [Default.aspx](./CS/WebApplication12/Default.aspx) (VB: [Default.aspx](./VB/WebApplication12/Default.aspx))
 * [Default.aspx.cs](./CS/WebApplication12/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebApplication12/Default.aspx.vb))
 <!-- default file list end -->
 # How to show an error text for editors in the EditFormTemplateContainer.
